@@ -1,3 +1,5 @@
+http://www.blog.labouardy.com/category/ansible/
+
 <p align="center">
   <img src="http://i0.wp.com/www.blog.labouardy.com/wp-content/uploads/2017/08/swarm_ansible_terraform_aws.png?w=462"/>
 </p>
